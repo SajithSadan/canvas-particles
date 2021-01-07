@@ -1,4 +1,4 @@
-# canvas-particles
+# HTML5 Canvas Particles Demo
 A demo for creating particle effects using HTML5 cnavas and javascript.
 
 # Getting Started
@@ -12,7 +12,7 @@ A demo for creating particle effects using HTML5 cnavas and javascript.
   - It will run the app in localhost 
   
 ## Software Dependencies
-  - Parcel Builder (for bundling and transpiling ES6 code)
+  - Parcel Builder (for bundling and transpiling ES6 code) https://parceljs.org/
  
 ## Latest Release
  
