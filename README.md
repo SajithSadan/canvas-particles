@@ -2,18 +2,19 @@
 A demo for creating particle effects using HTML5 cnavas and javascript.
 
 #Getting Started
-1. Installation process
-  -- Download or clone the code.
-  -- Open code folder in command prompt.
-  -- Run 'npm install' to run all dependencies.
+##Installation process
+  - Download or clone the code.
+  - Open code folder in command prompt.
+  - Run 'npm install' to run all dependencies.
  
- 2. Run the project in local environment
-  -- Run 'npm run dev'
-  -- It will run the app in localhost 
+##Run the project in local environment
+  - Run 'npm run dev'
+  - It will run the app in localhost 
   
- 3. Software Dependencies
+##Software Dependencies
+  - Parcel Builder (for bundling and transpiling ES6 code)
  
- 4. Latest Release
+##Latest Release
  
 
   
