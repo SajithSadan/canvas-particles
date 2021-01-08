@@ -1,7 +1,7 @@
-import '../css/app.css'
-import Game from './game'
+import "../css/app.css";
+import Game from "./game";
 
-document.addEventListener('DOMContentLoaded', () => {
-    const game = new Game("canvas", "title")
-    game.init()
-})
+document.addEventListener("DOMContentLoaded", () => {
+  const game = new Game("canvas", "title");
+  game.init();
+});
